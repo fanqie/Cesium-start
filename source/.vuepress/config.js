@@ -86,40 +86,40 @@ module.exports = {
           "/zh/guide/": genGuideSidebar(true)
         }
       },
-      // "/en/": {
-      //   label: "English",
-      //   selectText: "Languages",
-      //   editLinkText: "Edit this page on GitHub",
-      //   lastUpdated: "Last Updated",
-      //   nav: [{
-      //       text: "Guide",
-      //       link: "/en/guide/"
-      //     },
-      //     {
-      //       text: "reference",
-      //       link: "/en/reference/"
-      //     },
-      //     {
-      //       text: "Links",
-      //       items: [{
-      //           text: "Cesium website",
-      //           link: "https://cesium.com/index.html"
-      //         },
-      //         {
-      //           text: "Cesium Github",
-      //           link: "https://github.com/AnalyticalGraphicsInc/cesium"
-      //         },
-      //         {
-      //           text: "Cesium docs",
-      //           link: "https://cesium.com/docs/"
-      //         }
-      //       ]
-      //     }
-      //   ],
-      //   sidebar: {
-      //     "/en/guide/": genGuideSidebar(false)
-      //   }
-      // }
+      "/en/": {
+        label: "English",
+        selectText: "Languages",
+        editLinkText: "Edit this page on GitHub",
+        lastUpdated: "Last Updated",
+        nav: [{
+            text: "Guide",
+            link: "/en/guide/"
+          },
+          {
+            text: "reference",
+            link: "/en/reference/"
+          },
+          {
+            text: "Links",
+            items: [{
+                text: "Cesium website",
+                link: "https://cesium.com/index.html"
+              },
+              {
+                text: "Cesium Github",
+                link: "https://github.com/AnalyticalGraphicsInc/cesium"
+              },
+              {
+                text: "Cesium docs",
+                link: "https://cesium.com/docs/"
+              }
+            ]
+          }
+        ],
+        sidebar: {
+          "/en/guide/": genGuideSidebar(false)
+        }
+      }
     }
   }
 };
