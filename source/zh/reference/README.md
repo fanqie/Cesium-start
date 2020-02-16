@@ -109,7 +109,7 @@ sidebarDepth: 3
 
 ## cesium & vue
 
-- [vue-cesium](https://zouyaoji.top/vue-cesium/#/)
+- [vue-cesium](https://zouyaoji.top/vue-cesium/#/) [github](https://github.com/zouyaoji/vue-cesium)
 - [vue结合cesium案例](https://gitee.com/dcxm/cesium)
 - [cesium-vue](https://gitee.com/dawudcn/Cesium-Development-Lab) 基于 Cesium 可视化开发。
 - [VUE CESIUM](https://gitee.com/musicguoke/vue-cesium)
