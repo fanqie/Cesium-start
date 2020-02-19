@@ -28,6 +28,7 @@ sidebarDepth: 3
 - [Cesium学习系列汇总](https://mp.weixin.qq.com/s?__biz=MzU1ODcyMjEwOA==&mid=2247484268&idx=1&sn=861480d7108f70a2fd16000df4df2db1&chksm=fc237e3fcb54f72904a9cd57a3c2bf325e30a00de614ec3145dcb1f0310e7c0f9362d4f00742&token=1964897234&lang=zh_CN#rd) |[Cesium学习笔记汇总_cumtzheNo1_新浪博客](http://blog.sina.com.cn/s/blog_15e866bbe0102xu2f.html)| [Cesium学习笔记汇总_cumtzheNo1_源码 @YanzheZhang](https://github.com/YanzheZhang/Cesium.HPUZYZ.Demo)
 - [Cesium教程系列汇总(超图大牛作品，国内较早的深入研究教程）](http://www.cnblogs.com/fuckgiser/p/5706842.html) |[Cesium教程系列汇总-网上示例](https://pasu.github.io/ExamplesforCesium/examples/examples.html%23Primer) |[Cesium教程系列汇总-网上示例源码](https://github.com/pasu/ExamplesforCesium)
 - [Cesium编程入门 | cesium中文网](http://cesium.xin/wordpress/archives/category/cesium%e7%bc%96%e7%a8%8b%e5%85%a5%e9%97%a8) |[Cesium编程中级 | cesium中文网](http://cesium.xin/wordpress/archives/category/cesium%e7%bc%96%e7%a8%8b%e4%b8%ad%e7%ba%a7)
+- [cesium入门笔记集合](https://blog.csdn.net/alisa_lisa/article/details/88074489)
 
 ## 其他教程资料
 
@@ -180,6 +181,7 @@ sidebarDepth: 3
 - [AnalyticalGraphicsInc/obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf) obj => gltf [传送门](../guide/transcoding/02-obj-2-gltf.md)
 - [assimp/assimp](https://github.com/assimp/assimp) 官方开放资产导入库存储库。将40多种3D文件格式加载到一个统一且干净的数据结构中。http://www.assimp.org
 - [ksons/gltf-blender-importer](https://github.com/ksons/gltf-blender-importer) Blender glTF 2.0 Importer
+- [osgbTo3dtiles.zip](https://pan.baidu.com/s/13aysULuiUx3GhzrWqCNWig) (提取码：tkmn)
 
 ## terrain 地形
 
