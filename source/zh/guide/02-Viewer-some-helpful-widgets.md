@@ -79,6 +79,16 @@ var viewer = new Cesium.Viewer("cesiumContainer", defaultOption);
 
 查看[这里](https://sogrey.github.io/Cesium-start-Example/examples/Viewer-some-helpful-widgets.html)
 
+## 更简洁的CesiumWidget
+
+以上要通过配置Option来控制组件的显示，Cesium还提供了更简洁的`CesiumWidget`用来创建一个不包含任何组件仅有地球的场景。
+
+``` js
+var viewer = new Cesium.CesiumWidget("cesiumContainer");
+```
+
+查看[这里](https://sogrey.github.io/Cesium-start-Example/examples/CesiumWidget.html)
+
 ## 去除版权信息
 
 js 方式：
