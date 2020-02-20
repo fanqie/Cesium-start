@@ -65,7 +65,7 @@ module.exports = {
               },
               {
                 text: "Cesium Github",
-                link: "https://github.com/AnalyticalGraphicsInc/cesium"
+                link: "https://github.com/CesiumGS/cesium"
               },
               {
                 text: "Cesium 官方文档",
@@ -107,7 +107,7 @@ module.exports = {
               },
               {
                 text: "Cesium Github",
-                link: "https://github.com/AnalyticalGraphicsInc/cesium"
+                link: "https://github.com/CesiumGS/cesium"
               },
               {
                 text: "Cesium docs",

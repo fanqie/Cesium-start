@@ -9,7 +9,7 @@ sidebarDepth: 3
 - [cesium官方文档](https://cesium.com/docs/) [APIs](https://cesium.com/docs/cesiumjs-ref-doc/)
 - [cesium-workshop](https://cesium.com/docs/tutorials/cesium-workshop/) [github](https://github.com/AnalyticalGraphicsInc/cesium-workshop)
 - [cesium 官方示例](https://sandcastle.cesium.com/)
-- [cesium github](https://github.com/AnalyticalGraphicsInc/cesium)
+- [cesium github](https://github.com/CesiumGS/cesium)
 - [cesium google forum](https://groups.google.com/forum/#!forum/cesium-dev)
 - [cesium 中文网社区](http://cesiumcn.org/) [国内域名](http://cesium.coinidea.com/)
 
