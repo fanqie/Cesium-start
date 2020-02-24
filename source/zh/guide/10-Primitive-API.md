@@ -69,7 +69,7 @@ var ellipsoidInstance = new Cesium.GeometryInstance({
   modelMatrix : Cesium.Matrix4.multiplyByTranslation(
       Cesium.Transforms.eastNorthUpToFixedFrame(Cesium.Cartesian3.fromDegrees(-95.59777, 40.03883)),
       new Cesium.Cartesian3(0.0, 0.0, 500000.0), new Cesium.Matrix4()
-  ),
+  ),//确定图元位置
   id : 'ellipsoid',
   attributes : {
     color : Cesium.ColorGeometryInstanceAttribute.fromColor(Cesium.Color.AQUA)
