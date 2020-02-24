@@ -62,6 +62,14 @@ npm start #开启一个本地http server
 
 ---
 
+其他命令：
+
+``` bash
+npm run generateDocumentation # 创建文档,Cesium 文档底层调用的是`jsDoc`
+```
+
+---
+
 我这里选择基于node依赖安装，前提需要安装[node](https://nodejs.org/en/)。
 
 IDE:[Visual Studio Code](https://code.visualstudio.com/)

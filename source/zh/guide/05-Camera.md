@@ -21,7 +21,7 @@ Camera常用属性：
   相对于物体（飞机自身）的旋转角度。
 
   面朝正东向：heading=0;pith=0;
- 
+
   朝向（heading）：东面正向,左右摆,左负右正
 
   俯仰（pith）：上下摆,上正下负
@@ -226,17 +226,29 @@ var range = 5000.0;//距离
 view.camera.lookAt(center, new Cesium.HeadingPitchRange(heading, pitch, range));
 ```
 
-> lookAt会将视角固定在设置的点上
+> lookAt会将视角固定在设置的点上，并且此时相机的旋转是以`lookAt`的第一参数`center`这个位置为中心旋转。如何解除旋转中心的锁定？需要借助到`camera`的另一个函数`lookAtTransform`:
+>
+> ``` js
+> camera.lookAtTransform(Cesium.Matrix4.IDENTITY);
+> ```
+>
+> 
 
 [在线预览](https://sogrey.github.io/Cesium-start-Example/examples/camera/view-beijing.html)
+
+## lookAtTransform(transform, offset)
+
+使用目标和变换矩阵设置相机的位置和方向。 偏移可以是笛卡尔坐标或航向/俯仰/范围。 如果偏移量是笛卡尔坐标，则它是与转换矩阵定义的参考帧中心的偏移量。 如果偏移量是航向/俯仰/范围，则航向和俯仰角在变换矩阵定义的参考帧中定义。 航向是从y轴到x轴的角度。 间距是从xy平面开始的旋转。 正俯仰角在平面下方。 负俯仰角在平面上方。 范围是距中心的距离。 在2D模式下，必须有一个俯视图。 相机将放置在参考框中心上方。 目标上方的高度将是偏移量。 航向将根据偏移量确定。 如果无法从偏移量确定航向，则航向将为北。
+
+[查看文档](https://cesium.com/docs/cesiumjs-ref-doc/Camera.html?classFilter=camera#lookAtTransform)
 
 ## 记录视角
 
 同理，想要标记某个位置和角度，下次直接进入，可以在选好的角度上按<a href="#记录视角" class="btn-gradient red mini">F12</a>进入开发者工具输入
 
-- `viewer.camera.heading`
--  `viewer.camera.pitch` 
--  `viewer.camera.position`
+- `viewer.camera.heading` 朝向角
+-  `viewer.camera.pitch`  仰俯角
+-  `viewer.camera.position` 位置
 
 回车可以得到信息,**获取到的是弧度**,[角度与弧度转换](03-coordinate-system.html#%E8%A7%92%E5%BA%A6%E4%B8%8E%E5%BC%A7%E5%BA%A6%E8%BD%AC%E6%8D%A2)
 
