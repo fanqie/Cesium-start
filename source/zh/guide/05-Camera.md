@@ -17,6 +17,10 @@ Camera常用属性：
   ![此处应有图](../../.vuepress/public/img/camera-heading-roll-pitch.png)
   
   图中`g`是重力方向与`Z`相反。
+
+  相对于物体（飞机自身）的旋转角度。
+ 
+  朝向（heading）：东面正向
   
   盗个图：
   
