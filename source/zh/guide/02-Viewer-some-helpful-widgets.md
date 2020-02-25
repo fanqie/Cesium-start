@@ -89,6 +89,8 @@ var viewer = new Cesium.CesiumWidget("cesiumContainer");
 
 查看[这里](https://sogrey.github.io/Cesium-start-Example/examples/CesiumWidget.html)
 
+更多`Viewer`和`CesiumWidget`的信息，请查看[Viewer类-一切API的入口](04-Viewer.md)
+
 ## 去除版权信息
 
 js 方式：
