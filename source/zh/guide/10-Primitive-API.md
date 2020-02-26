@@ -335,6 +335,7 @@ var entityImage = api.viewer.entities.add({
 //也可以简单的写成
 // entityImage.ellipse.material = '../../assets/img/arrow.png';
 ```
+
 #### CheckerboardMaterialProperty 棋盘纹理
 三个属性:
 
