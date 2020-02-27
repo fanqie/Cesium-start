@@ -47,7 +47,7 @@ Camera有几个常用API：
 
 ``` js
 // 1. Set position with a top-down view 设置相机位置
-// 此例没有指明相机的最终姿态（航向角、俯仰角、翻转角）那么就默认朝北 heading=0
+// 此例没有指明相机的最终姿态（航向角、俯仰角、翻转角）那么就默认朝北 heading = 0
 viewer.camera.setView({
     destination : Cesium.Cartesian3.fromDegrees(-117.16, 32.71, 15000.0)
 });
