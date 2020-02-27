@@ -82,6 +82,7 @@ sidebarDepth: 3
   在原[cesium-drawhelper](https://github.com/leforthomas/cesium-drawhelper)基础上，修改了DrawHelper.js部分地方
 - [DrawHelperForCesium1.6.X](https://gitee.com/zzwwjjdj/DrawHelperForCesium1.6.X)  
 - [kaktus40/Cesium-GeoserverTerrainProvider(把geoserver作为地形服务的插件）](https://github.com/kaktus40/Cesium-GeoserverTerrainProvider)
+- [cesium框架增加动态标绘功能 drawForCesium,drawHelper二次开发](https://adventurexph.github.io/drawForCesium/) [github](https://github.com/adventurexph/drawForCesium)
 
 ## Cesium相关开源项目
 
