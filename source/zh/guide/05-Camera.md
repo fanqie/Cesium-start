@@ -4,7 +4,7 @@
 
 cesium中的相机：
 
-`Cesium.Viewer.camera`:[Camera](https://cesium.com/docs/cesiumjs-ref-doc/Camera.html)
+`Cesium.Viewer.camera`:[Camera](https://cesium.com/docs/cesiumjs-ref-doc/Camera.html)其实是一个快捷方式，真正的归属是`Scene.Camera`。
 
 Camera常用属性：
 
@@ -47,6 +47,7 @@ Camera有几个常用API：
 
 ``` js
 // 1. Set position with a top-down view 设置相机位置
+// 此例没有指明相机的最终姿态（航向角、俯仰角、翻转角）那么就默认朝北 heading=0
 viewer.camera.setView({
     destination : Cesium.Cartesian3.fromDegrees(-117.16, 32.71, 15000.0)
 });
