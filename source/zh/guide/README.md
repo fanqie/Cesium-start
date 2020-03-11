@@ -65,8 +65,8 @@ npm start #开启一个本地http server
 其他命令：
 
 ``` bash
+npm run build # 在Source目录下生成了一个Cesium.js文件,Sandcastle中包含`Development`分类。
 npm run generateDocumentation # 创建文档,Cesium 文档底层调用的是`jsDoc`
-npm run build # 在Source目录下生成了一个Cesium.js文件
 npm run minifyRelease # 这个命令会把Source目录下所有的js文件打包放到Build/Cesium/目录下，
                       # 并且生成一个真正的供生产环境下来使用的Cesium.js文件。
 npm run minify # 会压缩优化js代码，但是不会去掉调试信息。

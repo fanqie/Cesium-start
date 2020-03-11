@@ -559,11 +559,6 @@ Cesium.Material._materialCache.addMaterial(Cesium.Material.PolylineTrailLinkType
 });
 ```
 
-<details>
-<summary>查看代码段</summary>
-逗你呢
-</details>
-
 [github](https://github.com/YanzheZhang/Cesium.HPUZYZ.Demo/blob/master/Cesium1.43/MyDemos/Tools-34TrailLine.html)
 
 1. 新建PolylineTrailLinkMaterialProperty纹理类
