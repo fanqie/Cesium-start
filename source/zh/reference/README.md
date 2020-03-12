@@ -83,6 +83,7 @@ sidebarDepth: 3
 - [DrawHelperForCesium1.6.X](https://gitee.com/zzwwjjdj/DrawHelperForCesium1.6.X)  
 - [kaktus40/Cesium-GeoserverTerrainProvider(把geoserver作为地形服务的插件）](https://github.com/kaktus40/Cesium-GeoserverTerrainProvider)
 - [cesium框架增加动态标绘功能 drawForCesium,drawHelper二次开发](https://adventurexph.github.io/drawForCesium/) [github](https://github.com/adventurexph/drawForCesium)
+- [This is a Vue + Cesium project. Its main functions include plotting and editing marker, polyline and polygon.](https://github.com/xtfge/cesium-draw)
 
 ## Cesium相关开源项目
 
