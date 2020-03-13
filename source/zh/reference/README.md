@@ -84,6 +84,7 @@ sidebarDepth: 3
 - [kaktus40/Cesium-GeoserverTerrainProvider(把geoserver作为地形服务的插件）](https://github.com/kaktus40/Cesium-GeoserverTerrainProvider)
 - [cesium框架增加动态标绘功能 drawForCesium,drawHelper二次开发](https://adventurexph.github.io/drawForCesium/) [github](https://github.com/adventurexph/drawForCesium)
 - [[github]This is a Vue + Cesium project. Its main functions include plotting and editing marker, polyline and polygon.](https://github.com/xtfge/cesium-draw)
+- [Cesium组件汉化包](https://blog.csdn.net/du_5pet/article/details/99716321)
 
 ## Cesium相关开源项目
 
@@ -184,6 +185,7 @@ sidebarDepth: 3
 - [assimp/assimp](https://github.com/assimp/assimp) 官方开放资产导入库存储库。将40多种3D文件格式加载到一个统一且干净的数据结构中。http://www.assimp.org
 - [ksons/gltf-blender-importer](https://github.com/ksons/gltf-blender-importer) Blender glTF 2.0 Importer
 - [osgbTo3dtiles.zip](https://pan.baidu.com/s/13aysULuiUx3GhzrWqCNWig) (提取码：tkmn)
+- [Convert obj model file to 3d tiles](https://github.com/PrincessGod/objTo3d-tiles) 支持obj、gltf、glb、i3dm
 
 ## terrain 地形
 

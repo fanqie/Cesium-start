@@ -63,9 +63,9 @@ var defaultOption = {
 	baseLayerPicker:false,//右上角图层选择器            
 	fullscreenButton:false,  //右下角全屏按钮          
 	geocoder:false,//右上角搜索            
-	homeButton:false, //home键，点击回到默认视角
-	infoBox:false, //点击模型不显示cesium自带的信息框
-	//scene3DOnly:false,//仅仅显示3d,可隐藏右上角2d和3d按钮 
+    homeButton:false, //home键，点击回到默认视角
+    //scene3DOnly:false,//仅仅显示3d,可隐藏右上角2d和3d按钮 
+	infoBox:false, //点击模型不显示cesium自带的信息框	
 	selectionIndicator: false, //点击模型不显示cesium自带的绿色选中框  
 	timeline:false,//最下面时间轴            
 	navigationHelpButton:false,//右上角帮助按钮 
