@@ -77,7 +77,11 @@ module.exports = {
               },
               {
                 text: "Cesium 中文网社区",
-                link: "http://cesiumcn.org/"
+                link: "http://cesium.coinidea.com"
+              },
+              {
+                text: "Cesium 实验室",
+                link: "https://bbs.cesiumlab.com/"
               }
             ]
           }

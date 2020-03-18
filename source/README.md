@@ -23,7 +23,7 @@ features:
 
 ---
 ### 友链
-[Cesium 中文网社区](http://cesiumcn.org/)
+[Cesium 中文网社区](http://cesium.coinidea.com) [Cesium 实验室](https://bbs.cesiumlab.com/)
 
 ---
 <!-- 自定义footer -->

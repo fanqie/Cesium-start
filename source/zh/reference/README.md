@@ -12,6 +12,7 @@ sidebarDepth: 3
 - [cesium github](https://github.com/CesiumGS/cesium)
 - [cesium google forum](https://groups.google.com/forum/#!forum/cesium-dev)
 - [cesium 中文网社区](http://cesiumcn.org/) [国内域名](http://cesium.coinidea.com/)
+- [Cesium 实验室](https://bbs.cesiumlab.com/)
 
 
 ## Cesium数据格式说明文档
@@ -120,6 +121,7 @@ sidebarDepth: 3
 - [Vue-cli3.0+Cesium快速构建Demo](https://www.jianshu.com/p/99257bf837cc)
 - [isboyjc/vue-cli-plugin-cesium](https://github.com/isboyjc/vue-cli-plugin-cesium)
 - [ShareQiu1994/cesium-vue2](https://github.com/ShareQiu1994/cesium-vue2)cesium-vue2(基于vuecli3.x) [ShareQiu1994/cesium-vue](https://github.com/ShareQiu1994/cesium-vue)cesium-vue(基于vuecli2.x)
+- [不同的分支代表不同的环境 vuecli2 | vuecli3+ | webpack](https://github.com/amluck/cesium-in-use)
 
 ## cesium & WebPack
 
