@@ -207,6 +207,7 @@ Cartesian3一些常用API:
 ## 参考
 
 - [关于Cesium中的常用坐标系及说明](https://blog.csdn.net/XLSMN/article/details/76168510)
+- [three 与 ceisum 坐标系差异](https://ioyweb.com/article/41)
 - [Cesium中的坐标的转化](https://blog.csdn.net/caozl1132/article/details/86220824)
 - [Cesium中的几种坐标和相互转换](https://blog.csdn.net/qq_34149805/article/details/78393540)
 - [Cesium.Cartesian3 和经纬度以及屏幕坐标等之间的转换](https://blog.csdn.net/u013821237/article/details/80169327)
@@ -214,5 +215,6 @@ Cartesian3一些常用API:
 
 
 
+  
   
 
